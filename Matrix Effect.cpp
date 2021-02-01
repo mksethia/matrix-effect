@@ -7,7 +7,6 @@
 
  It is recommended to view this cpp file in Visual Studio.
  Apologies for the all the comments obliterating readability: I'm getting in as much detail as possible so I don't forget how any of this works!
- An un-commented version is available in the same folder.
  */
 
 
